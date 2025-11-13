@@ -14,5 +14,6 @@
   {"id":"b368635a-5e14-44e8-a791-6d7f80edf76c", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
   {"id":"72425b9c-8daa-410c-a83a-2bdb420755ed", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
   {"id":"f0a4d13b-d45a-4ca0-9c59-c33bbe67d2bc", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
-  {"id":"eb4b96bd-0114-4b2f-956b-011d2810921e", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true}
+  {"id":"eb4b96bd-0114-4b2f-956b-011d2810921e", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
+  {"id":"ec4f6717-d62c-456c-bea3-a4ac54b111f0", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true}
 ]

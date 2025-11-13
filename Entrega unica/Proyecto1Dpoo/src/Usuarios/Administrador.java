@@ -1,7 +1,9 @@
 package Usuarios;
 
+
 import java.util.EnumMap;
 import java.util.Map;
+import Usuarios.Organizador;
 
 import Eventos.Evento;
 import Eventos.Venue;
@@ -56,7 +58,19 @@ public class Administrador extends Usuario {
   public void agregarVenuePendiente(Venue venue) {
     this.venuesPendientesAprobacion.add(venue);
   }
-
+  
+  public void aprobarPromotor(Organizador organizador) {
+	  if (organizador != null) {
+		  organizador.setEstadoAprobacion("aprobado");
+	  }
+  }
+  
+  public void rechazarPromotor(Organizador organizador) {
+	  if(organizador != null) {
+		  organizador.setEstadoAprobacion("rechazado");
+	  }
+  }
+  
   public void aprobarVenue(Venue venue) {
     if (this.venuesPendientesAprobacion.contains(venue)) {
       this.venuesPendientesAprobacion.remove(venue);

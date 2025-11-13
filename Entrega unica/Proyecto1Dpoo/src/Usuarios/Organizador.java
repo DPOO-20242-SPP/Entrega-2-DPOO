@@ -9,6 +9,8 @@ public class Organizador extends Usuario {
   
     private List<Evento> eventos = new ArrayList<Evento>();  
     private List<Oferta> ofertas = new ArrayList<Oferta>();      
+    
+    private String estadoAprobacion = " pendiente";
  
     public Organizador(String nId, String nName, String nCorreo, String nLogin, String nPasswordH) {
         super(nId, nName, nCorreo, nLogin, nPasswordH);
@@ -19,6 +21,14 @@ public class Organizador extends Usuario {
     
     public List<Oferta> getOfertas() { return ofertas; }
     public void setOfertas(List<Oferta> ofertas) { this.ofertas = ofertas; }
+    
+    public String getEstadoAprobacion() {
+        return estadoAprobacion;
+    }
+
+    public void setEstadoAprobacion(String estadoAprobacion) {
+        this.estadoAprobacion = estadoAprobacion;
+    }
     
     public void agregarEvento(Evento evento) {
         this.eventos.add(evento);  
