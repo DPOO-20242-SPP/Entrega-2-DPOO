@@ -1,0 +1,3 @@
+[
+  {"id":"0896f6ac-09bc-46c8-a01a-557cdc063dda", "nombre":"Rock Fest", "tipo":"Musical", "fecha":"2025-11-22", "hora":"20:00", "venueId":"eb4b96bd-0114-4b2f-956b-011d2810921e", "organizadorCorreo":"org.seguro@bm.com", "cancelado":false, "tiquetesVendidos":0, "localidades":[{"id":"90533e28-e4f3-4273-aca5-3aef090e9396", "nombre":"General", "tipo":"General", "precio":80.0, "capacidad":200}]}
+]

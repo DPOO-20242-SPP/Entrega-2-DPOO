@@ -1,0 +1,18 @@
+[
+  {"id":"e2584220-0eb3-4174-8277-c45dc297022c", "nombre":"Taylor Swift", "direccion":"Diagonal 61c #26", "capacidadMaxima":10000000, "aprobado":true},
+  {"id":"ab538877-7a18-4ada-ba09-91b12ac8647c", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
+  {"id":"0a80aad7-fb27-4a64-8de5-a9328c2c3461", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
+  {"id":"58b84d8a-0fb4-4c54-88d2-c3bf5e51edcc", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
+  {"id":"5219e2c4-182b-4c00-8934-9b8b45b28a87", "nombre":"Shakira", "direccion":"calle 30 # 109 a 35", "capacidadMaxima":1000, "aprobado":true},
+  {"id":"6dd30019-3f7a-4634-9a14-dfca39369944", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
+  {"id":"17a36a10-cd25-4c46-a07b-786a87cb8463", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
+  {"id":"f7c4d677-ae4f-4ba8-a13f-6ee7980c69d0", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
+  {"id":"b035f5e2-ab7a-403f-a3ed-6e4fc0a1e0b7", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
+  {"id":"f1e5e1cb-800f-431a-919a-01ba1508824d", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
+  {"id":"35e690af-409d-4200-a1a7-aa07c38274b8", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
+  {"id":"1605c27f-2d05-412b-98da-f90feb7d8f0d", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
+  {"id":"b368635a-5e14-44e8-a791-6d7f80edf76c", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
+  {"id":"72425b9c-8daa-410c-a83a-2bdb420755ed", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
+  {"id":"f0a4d13b-d45a-4ca0-9c59-c33bbe67d2bc", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true},
+  {"id":"eb4b96bd-0114-4b2f-956b-011d2810921e", "nombre":"Coliseo Central", "direccion":"Bogotá", "capacidadMaxima":10000, "aprobado":true}
+]

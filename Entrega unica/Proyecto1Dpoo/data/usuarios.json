@@ -1,0 +1,9 @@
+[
+  {"id":"baeb42ea-2366-4292-ba10-e44010306c05", "name":"Lina Sofia ramirez", "correo":"ls.ramirez@gmail.com", "login":"lsofiar123", "rol":"Cliente", "saldoVirtual":0.0, "pwdHash":"a88c842"},
+  {"id":"a71bb31d-da8b-4340-939f-56c30ed5cdd5", "name":"Admin Demo", "correo":"admin.seguro@bm.com", "login":"admin", "rol":"Administrador", "saldoVirtual":0.0, "pwdHash":"9c693dd5"},
+  {"id":"84d5eda7-d55b-43e3-a9fb-b7e59048f0b5", "name":"samantha puentes pinzon", "correo":"samanthapuentes@gmail.com", "login":"sami123", "rol":"Cliente", "saldoVirtual":-2.2201181E7, "pwdHash":"6f232d88"},
+  {"id":"b543d0ed-485a-4bbf-b345-068fd3233047", "name":"Org Demo", "correo":"org.seguro@bm.com", "login":"organizador", "rol":"Organizador", "saldoVirtual":0.0, "pwdHash":"4ecb0f60"},
+  {"id":"43499bfc-ce7b-4702-b31d-404d713cc557", "name":"David Santiago Ruiz", "correo":"dasaruco@gmail.com", "login":"Dasaruco", "rol":"Cliente", "saldoVirtual":0.0, "pwdHash":"8ffb93c2"},
+  {"id":"37ee3706-4607-4be8-bd48-fb0a73d9dd97", "name":"Jefferson Orozco", "correo":"jeffol@gmail.com", "login":"jeff11", "rol":"Cliente", "saldoVirtual":0.0, "pwdHash":"8405c6bb"},
+  {"id":"103033ab-afd6-48a2-a4cf-21f57dca47c1", "name":"User Demo", "correo":"user@demo.com", "login":"userdemo", "rol":"Cliente", "saldoVirtual":9999.0, "pwdHash":"88428699"}
+]
